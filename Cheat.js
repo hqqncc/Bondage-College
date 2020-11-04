@@ -1,4 +1,4 @@
-var CheatAllow = false;
+var CheatAllow = true;
 
 // Receives cheat keys
 function CheatKey() {
