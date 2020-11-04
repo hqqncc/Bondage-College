@@ -1,5 +1,5 @@
 Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
-0,0,0,,"嗯，我是新来的。",欢迎！ 我是 Amanda。,10,0,0,
+0,0,0,,"嗯，我是新来的。",欢迎！ 我是 Amanda。,10,10,0,
 0,0,0,,"是的，新学校的第一天|总是令人害怕。","没事的。 我是 Amanda，欢迎你。",10,0,-1,
 0,0,0,,你看上去像是|老师的走狗。,"呃…… 那个…… 我……|我是 Amanda，欢迎你。",10,-1,1,
 0,0,0,,关你什么事？,"哦，只是随便问问。我是 Amanda，欢迎你。",10,-1,0,
